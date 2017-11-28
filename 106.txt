@@ -1,0 +1,29 @@
+ldeﬁne XTEMS 5
+ideﬁne MAXCHAR 20
+main( )
+{
+char string [11m] [MAXCHAR] . dumy[MAXCHAR];
+int i = 0. 3 = o;
+/* Reading the Hst n/
+printf ("Enter names of 5‘6 items \n ".UEMS);
+lhi]! (i < ITEMS)
+scanf ("xs". 5tr1’ng[i++]);
+/‘ Sorting begins "/
+for (i=1; i < XTEMS; w) /* Outer 1oap begins '/
+{ for (j: -. 5‘ <= XTEMS-i ; 3M) /'Inner \oop begins‘l
+( ﬁf (strcmp (stringD-ll. strlngm) > 0)
+{ /* Exchange of contenzs '/
+strcpy (duMy. strinm-ll):
+strcpy (strﬁngﬁ-l]. sm‘ngm);
+strCPy (smngul, dunmy );
+l
+} /' Innar loop Ends */
+} /‘ outer loop ends '/
+/“ Surung completed '/ "
+pr1ntf (“\nAlphahetical Hst \n\n )2
+rm- u-o; ‘ < 11945 ; W)
+”1..“ (”5—, smnsm);
+)
+
+htpu
+

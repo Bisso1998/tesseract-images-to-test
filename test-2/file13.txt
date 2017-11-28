@@ -1,0 +1,21 @@
+cry (
+p _
+; catch (baLancc xa) {
+cout << ”Allocation Failure\n~;
+
+return 1 ;
+
+i<10; i“. )
+
+ 
+
+for“
+P[i] = i:
+
+toz¢i=m i<10; i++)
+cout: << p[i] << - -;
+
+(1916“ [} p; // release :he arxay
+
+_ new int [101; // allocate 10 inceger amy
+

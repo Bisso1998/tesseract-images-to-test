@@ -1,0 +1,13 @@
+  
+ 
+  
+
+pri ntf("1nteger va1ues\n\n"); -~- t
+32767 ,327-67+I",3276
+
+printf("°/ad ”/ad °/..d\n“,
+
+printf(“\n");
+printf("Long integer values\n\n“);“”
+printf(""4‘|d ”/o'ld "/a1d\n", 327_67L,32]
+

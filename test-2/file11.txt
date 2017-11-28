@@ -1,0 +1,16 @@
+#include<bits/stdc++.h>
+using namespace std;
+int *cost;
+//int counter=0;
+int optima1(int n)
+{
+if(!n)
+return 0;
+if(n==1)
+return cost[0];
+int q=INT_MIN;
+// cout<<counter++<<"\n“;
+for(int i=1;i<=n;i++)
+q=max(q,cost[i]+optima1(n-i));
+return q;
+

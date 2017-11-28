@@ -1,0 +1,29 @@
+ldeﬁne XTEMS 5
+idefine MAXCHAR 20
+main( )
+(
+char string [ITEMS] [MAXCHAR] . dumy[MAXCHAR];
+int i = 0. j = o;
+/* Reading the ﬁst n/
+printf ("Enter names of 5d items \n ".UEMS);
+uni]! (i < ITEMS)
+scanf ("xs". 5tr1’ng[i++]);
+/‘ Sorting begins "/
+for (i=1; i < ITEMS; w) /* Outer 100p begins '/
+( for (j: -. j <= XTEMS-i ~. 3M) I'lnner \oop begins‘l
+( ﬁf (strcmp (stringD-ll. strlngm) > 0)
+{ /* Exchange of contents '/
+strcpy (dunny. strum-1]):
+strcpy (strﬁngﬁ-l]. Stringm);
+strCPy (smnml, dummy );
+l
+1 /' Innar loop Ends */
+) /‘ outer loop ends '/
+/“ Surﬁng completed '/ u
+pr1ntf (“\nAlphahetical list \n\n )2
+rm- (no; ‘ < ITEMS : W)
+”in“ (-95—, strinsm);
+)
+
+tutu»
+

@@ -1,0 +1,12 @@
+printf(“1nput ’names and teIephone numbers \n“);
+
+printf("?");
+
+for(i=0; i <= CUSTOMERS ; i++)
+
+{ 
+
+scanf("'4s ’65 955 ’65", first_name[i],
+sepond_name[i] . surname [i] , telephoneh] 
+};
+

@@ -1,0 +1,9 @@
+Hqﬂude <iostream>
+usmg namespace std:
+
+in: main()
+<1
+
+mut << "Henn. wnr1d!\n":
+return 0:
+

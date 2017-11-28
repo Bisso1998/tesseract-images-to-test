@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+int main()
+int numbe
+cout << 'Enter an intege
+cin >> number;
+
+ 
+
+ 
+
+if ( number >: 0)
+
+{
+
+cout << "You entered a positive integer: ' << number << endl;
+}
+else
+{
+
+cout << "You entered a negative integer: " << number << endl;
+}
+
+cout << 'This line is always printedf;
+return 0;
+

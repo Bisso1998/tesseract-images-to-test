@@ -1,0 +1,17 @@
+#includedostream)
+using namespace std;
+int main()
+
+{
+
+cout<<"Hello World";
+for( inti : 0; i<n;i++)
+{
+
+cout<<"Hello World";
+}
+
+return 0;
+
+}
+

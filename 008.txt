@@ -1,0 +1,9 @@
+ﬁrjdude <iostream>
+us1ng namespace 5m;
+
+int main()
+{
+
+(out << "Hana, wor1d!\n":
+return 0:
+

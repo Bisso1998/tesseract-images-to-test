@@ -1,0 +1,31 @@
+linclude (iostream?
+
+Ilnclude <new>
+using namespace std;
+
+int main ()
+(
+
+ 
+
+int “
+
+try {
+
+p = new int (87?; // initialize to 87
+} catch (bad_alloc xa) (
+
+cout << 'Allocation Failure\n';
+
+return 1 ;
+
+cmc<(-M._.<<p<( . .;
+
+cout: << ~13 the value - << 'p <( '\n
+
+ 
+
+delete ;;
+
+rotum 0 ;
+

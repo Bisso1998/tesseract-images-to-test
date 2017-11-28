@@ -1,0 +1,29 @@
+”defi ne CUSTOMERS 10
+
+main( )
+
+I
+char first _name[20][m], second name[zu][10]A
+
+surname[20][10], name[20][20].
+ce1ephone[zu][1o], dummy[20];
+
+int hj;
+
+printf("1nput names and te‘ephone numbers \n“):
+
+printf(“?")-
+for(1=0; i < CU$TOMERS ', 1*+)
+(
+scanﬁ'W s 955 ’KS ks", ﬁrst _name[i],
+
+second_ name[i]. surname[i], telephone[i]);
+
+I“ converting qu name to surname with initials
+strcpy(name[i]. su nameﬁ] );
+
+strcaunamem .
+dummym]: first_ nameU] [u] .
+
+ 
+
